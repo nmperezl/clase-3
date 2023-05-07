@@ -1,0 +1,27 @@
+instalacion de git bash
+
+para ver version:
+importantes los espacios!!!
+
+git --version 
+
+es la 2.40.0
+
+https://overapi.com/git
+
+comandos: 
+cd Change directory
+ls list (ver directorios)
+
+configurar 2 cosas. Desktop git config --global user.name nadia 
+
+Comandos basicos: 
+git init > al inicio de un proyecto. almacenamiento local lo convierte en repositorio git. crea una carpeta .git
+git status > saber que pasa. da error, subi algo bien
+git add > agregar cambios al proyecto
+git commit 
+
+importante. estar ubicado en el directorio que quiero. 
+me posiciono en el directorio(clase 3 en este caso) y click derecho > git bash here
+
+voy a visual code y puedo abrir la terminal. new terminal
